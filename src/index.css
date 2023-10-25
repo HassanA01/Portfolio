@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+
+@layer base {
+  body {
+    @apply font-[Nunito];
+  }
+
+  li {
+    @apply px-4;
+    @apply cursor-pointer;
+  }
+}
+
+.project-container {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 250px;
+  position: relative;
+}
+
+.content-div {
+  width: 100%;
+  height: 100%;
+}
+
+.content-div:hover {
+  background-image: linear-gradient(
+    to right,
+    rgba(144, 243, 149, 1),
+    hsla(128, 74%, 61%, 1)
+  );
+}
+
+.submit-button {
+  transition: 300ms;
+}
+
+.submit-button:hover {
+  background-color: #00e469;
+  border-radius: 10px;
+  transition-duration: 300ms;
+  color: white;
+  border-color: #00e469;
+}
