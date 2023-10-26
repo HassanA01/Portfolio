@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.005bc0d1.css",
+    "main.js": "/Portfolio/static/js/main.f4edd801.js",
+    "static/media/bizreach.png": "/Portfolio/static/media/bizreach.1623657b9c3b886878ed.png",
+    "static/media/realestate.jpg": "/Portfolio/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/C_Programming_Language.svg.png": "/Portfolio/static/media/C_Programming_Language.svg.56b146ae4d89bcd7714f.png",
+    "static/media/angular.png": "/Portfolio/static/media/angular.01af70871edfe2e291c4.png",
+    "static/media/golang.png": "/Portfolio/static/media/golang.dfce7e9aeb29ce8a0679.png",
+    "static/media/aws.png": "/Portfolio/static/media/aws.84d24e4e1708dc95aacf.png",
+    "static/media/React-icon.svg.png": "/Portfolio/static/media/React-icon.svg.1e5639fdfd7c944093d3.png",
+    "static/media/portfolio.png": "/Portfolio/static/media/portfolio.4b1cf8317daf34bbe427.png",
+    "static/media/friendserver.png": "/Portfolio/static/media/friendserver.d47119b081572809f861.png",
+    "static/media/html-css.png": "/Portfolio/static/media/html-css.34786bee14427e7e25ba.png",
+    "static/media/node.png": "/Portfolio/static/media/node.c6649cb118c1ede849ad.png",
+    "static/media/logo-dark.png": "/Portfolio/static/media/logo-dark.713edf14a9488a05f184.png",
+    "static/media/python.png": "/Portfolio/static/media/python.632369df831d16241b59.png",
+    "static/media/three_musks.jpg": "/Portfolio/static/media/three_musks.9a9a0ea8214402cffa26.jpg",
+    "static/media/js.png": "/Portfolio/static/media/js.5aee537b1de530fe664b.png",
+    "static/media/firebase.svg": "/Portfolio/static/media/firebase.334c7505aa7b42a0a64028cae63fecfb.svg",
+    "static/media/java-icon.svg": "/Portfolio/static/media/java-icon.3c5854fce4aa30ad19d569c45d5ce874.svg",
+    "static/media/mongodb.svg": "/Portfolio/static/media/mongodb.1aca075d5cce0819fea7ea0902d94ce4.svg",
+    "static/media/jira.svg": "/Portfolio/static/media/jira.79401e798305efd2db7eaf75a868913b.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.005bc0d1.css.map": "/Portfolio/static/css/main.005bc0d1.css.map",
+    "main.f4edd801.js.map": "/Portfolio/static/js/main.f4edd801.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.005bc0d1.css",
+    "static/js/main.f4edd801.js"
+  ]
+}
